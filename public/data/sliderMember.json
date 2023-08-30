@@ -1,0 +1,36 @@
+{
+    "List":[
+      {
+        "id": 1,
+        "title": "Everything I have been working on at Bitcoin Suisse has been quite exciting and interesting. I have gained a lot of new knowledge and new experiences. Before joining Bitcoin Suisse, my blockchain/cryptocurrency knowledge was pretty basic.",
+        "url": "research/custody-bitcoin-suisse",
+        "name": "Afina Inana",
+        "degree": "Solution Architect",
+        "image": "member-01.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Bitcoin Suisse appealed to me from day one with its high service orientation. From the very beginning, I was able to take on a lot of responsibility and various activities. In addition, clients always come first, which is something I really appreciate.",
+        "url": "research/custody-bitcoin-suisse",
+        "name": "Lukas Schmid",
+        "degree": "HR Recruiting Specialist",
+        "image": "member-02.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Working for such a high growth firm, I was able to take on a lot of responsibility in different roles at a young age. Our jobs are demanding and we constantly need to learn and adapt to new things - all the time. But most evenings coming home from work, I feel happy and satisfied.",
+        "url": "research/custody-bitcoin-suisse",
+        "name": "Fabian Hediger",
+        "degree": "Head Innovation, Co-Founder",
+        "image": "member-03.jpg"
+      },
+      {
+        "id": 4,
+        "title": "It is a great honor to be working for such a dynami From day one I had the opportunity to support the fast scaling and growth of Bitcoin Suisse, take on a lot of responsibility, constantly learn and develop further. Providing client-oriented solutions is reflected in the unique culture and team spirit of Bitcoin Suisse.",
+        "url": "research/custody-bitcoin-suisse",
+        "name": "Ceyda Majcen",
+        "degree": "Head UHNW & HNW Clients",
+        "image": "member-04.jpg"
+      }
+    ]
+}
